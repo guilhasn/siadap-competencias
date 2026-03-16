@@ -17,6 +17,11 @@ Cada competência é avaliada através de **comportamentos organizados por níve
 | **4** | Influencia os outros | Coordena, garante, serve de exemplo, monitoriza |
 | **5** | Transforma a organização | Define, concebe, lidera, cria cultura |
 
+## O nível esperado depende do seu posto de trabalho
+
+!!! info "Importante: nem todos partem do mesmo patamar"
+    O nível de comportamento que se espera de si **depende do perfil do seu posto de trabalho**, não da escala em abstrato. Por exemplo, para um assistente operacional cujo posto exija o nível 2, demonstrar consistentemente esse nível já é ter a competência **"Demonstrada"** -- e evidenciar o nível 3 já pode ser considerado **"Nível Elevado"**. Não precisa de chegar ao nível 5 para ter uma avaliação de excelência. O que conta é ir **um degrau acima daquilo que o seu posto exige**, de forma consistente.
+
 ## "Demonstrada" vs "Demonstrada a Nível Elevado"
 
 ### Competência Demonstrada

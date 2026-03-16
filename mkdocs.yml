@@ -1,0 +1,68 @@
+site_name: "SIADAP - Competências ReCAP"
+site_description: "Guia prático das competências comportamentais do SIADAP - Referencial de Competências para a Administração Pública (ReCAP)"
+site_url: "https://guilhasn.github.io/siadap-competencias/"
+
+theme:
+  name: material
+  language: pt
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Modo escuro
+    - scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Modo claro
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - content.tabs.link
+  icon:
+    logo: material/school
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Inicio: index.md
+  - Como Funciona a Avaliacao: como-funciona.md
+  - Competencias Nucleares:
+    - Orientacao para o Servico Publico: nucleares/servico-publico.md
+    - Orientacao para a Colaboracao: nucleares/colaboracao.md
+    - Orientacao para a Mudanca e Inovacao: nucleares/mudanca-inovacao.md
+    - Orientacao para os Resultados: nucleares/resultados.md
+  - Competencias Funcionais:
+    - Analise Critica e Resolucao de Problemas: funcionais/analise-critica.md
+    - Gestao do Conhecimento: funcionais/gestao-conhecimento.md
+    - Comunicacao: funcionais/comunicacao.md
+    - Iniciativa: funcionais/iniciativa.md
+    - Negociacao e Influencia: funcionais/negociacao.md
+    - Organizacao e Planeamento: funcionais/organizacao-planeamento.md
+    - Orientacao para a Inclusao: funcionais/inclusao.md
+    - Orientacao para a Participacao: funcionais/participacao.md
+    - Orientacao para a Seguranca: funcionais/seguranca.md
+    - Tomada de Decisao: funcionais/tomada-decisao.md
+    - Inteligencia Emocional: funcionais/inteligencia-emocional.md
+    - Coordenacao de Equipas: funcionais/coordenacao-equipas.md
+  - Competencias de Dirigentes:
+    - Gestao e Direcao da Organizacao: dirigentes/gestao-direcao.md
+    - Lideranca: dirigentes/lideranca.md
+    - Representacao Institucional: dirigentes/representacao.md
+    - Visao Estrategica: dirigentes/visao-estrategica.md

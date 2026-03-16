@@ -44,6 +44,9 @@ Estabelecer relações efetivas com os seus interlocutores, contribuir para uma 
 
 ## Exemplos Práticos: Demonstrada vs Nível Elevado
 
+!!! warning "Nota importante"
+    Demonstrar uma competência a nível elevado **não depende do cargo hierárquico**. Qualquer trabalhador -- assistente técnico, assistente operacional ou técnico superior -- pode evidenciar comportamentos de nível elevado através da sua iniciativa, proatividade e impacto no serviço. Os exemplos seguintes ilustram isso mesmo.
+
 ### Cenário 1 — Organização de um evento municipal
 
 !!! success "Demonstrada (Níveis 1–2)"

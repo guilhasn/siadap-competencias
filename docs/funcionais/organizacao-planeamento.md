@@ -20,6 +20,9 @@ Assegurar uma utilização metódica de informações e equipamentos, garantir o
 
 ## Exemplos Práticos: Demonstrada vs Nível Elevado
 
+!!! warning "Nota importante"
+    Demonstrar uma competência a nível elevado **não depende do cargo hierárquico**. Qualquer trabalhador -- assistente técnico, assistente operacional ou técnico superior -- pode evidenciar comportamentos de nível elevado através da sua iniciativa, proatividade e impacto no serviço. Os exemplos seguintes ilustram isso mesmo.
+
 !!! success "Competência Demonstrada"
     **Situação:** Um assistente operacional responsável pela manutenção dos espaços verdes organiza o seu trabalho diário seguindo uma ordem lógica: verifica primeiro as ferramentas e materiais necessários, consulta o plano de intervenção semanal definido pelo encarregado e executa as tarefas pela ordem estabelecida. Quando percebe que não vai conseguir concluir uma tarefa no prazo previsto devido ao mau tempo, informa o encarregado atempadamente.
 
@@ -39,6 +42,16 @@ Assegurar uma utilização metódica de informações e equipamentos, garantir o
     **Situação:** A diretora de departamento é responsável por coordenar a implementação do Plano Estratégico do município, que envolve dezenas de projetos em diferentes áreas. Alinha os planos de atividade de todas as divisões com os objetivos estratégicos, cria um sistema de monitorização integrado com indicadores de desempenho, otimiza a alocação de recursos humanos e financeiros entre projetos concorrentes e estabelece planos de contingência para os cenários de atraso nos fundos comunitários. Reporta trimestralmente o progresso ao executivo, propondo ajustes estratégicos.
 
     **Porquê:** A trabalhadora coordena projetos ao nível estratégico da organização, alinha atividades com a otimização global de recursos, estabelece planos de contingência e garante o controlo integrado de múltiplos projetos.
+
+!!! success "Competência Demonstrada"
+    **Situação:** Uma técnica superior da divisão de desenvolvimento económico é encarregada de preparar a documentação para uma candidatura a fundos europeus. Organiza a informação por rubricas, define um calendário de tarefas com prazos intermédios e acompanha a execução, sinalizando atempadamente os desvios ao cronograma.
+
+    **Porquê:** A trabalhadora organiza recursos de forma metódica, define etapas e prioridades e sinaliza riscos ao cumprimento dos prazos, demonstrando planeamento dentro do âmbito das suas funções.
+
+!!! tip "Competência Demonstrada a Nível Elevado"
+    **Situação:** Uma técnica superior da divisão de desenvolvimento económico, sem funções de coordenação ou chefia, assume a gestão integral de uma candidatura a fundos europeus com múltiplas fases e entidades envolvidas. Define autonomamente os marcos de execução e os prazos intermédios, cria um sistema de monitorização de custos e indicadores de realização, elabora planos de contingência para cenários de atraso nas aprovações ou nos cofinanciamentos, e coordena informalmente com entidades parceiras (associações empresariais, instituições de ensino, entidades públicas) para garantir o cumprimento dos compromissos assumidos. Quando surgem imprevistos -- como a desistência de um parceiro -- ativa o plano alternativo e reorganiza o orçamento sem comprometer os objetivos da candidatura. O projeto é aprovado e executado dentro dos prazos e custos previstos.
+
+    **Porquê:** A trabalhadora, sem ocupar qualquer cargo de chefia, gere um projeto complexo em múltiplas dimensões (cronograma, custos, qualidade, parceiros), estabelece planos de contingência eficazes e coordena com entidades externas -- evidenciando comportamentos de nível elevado pela autonomia, pela visão integrada e pelo impacto dos resultados obtidos.
 
 ## Reflexão
 

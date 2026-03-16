@@ -20,6 +20,9 @@ Adquirir, atualizar e aplicar o conhecimento, partilhar o conhecimento e garanti
 
 ## Exemplos Práticos: Demonstrada vs Nível Elevado
 
+!!! warning "Nota importante"
+    Demonstrar uma competência a nível elevado **não depende do cargo hierárquico**. Qualquer trabalhador -- assistente técnico, assistente operacional ou técnico superior -- pode evidenciar comportamentos de nível elevado através da sua iniciativa, proatividade e impacto no serviço. Os exemplos seguintes ilustram isso mesmo.
+
 !!! success "Competência Demonstrada"
     **Situação:** Um assistente técnico da secção de recursos humanos mantém as suas pastas digitais organizadas por tema e ano, com nomes de ficheiros claros e estruturados. Quando um colega precisa de consultar um documento sobre processamento de vencimentos, consegue localizá-lo rapidamente e disponibiliza-o sem demora.
 
@@ -39,6 +42,16 @@ Adquirir, atualizar e aplicar o conhecimento, partilhar o conhecimento e garanti
     **Situação:** O diretor de departamento deteta que a rotação de pessoal tem provocado perda de conhecimento crítico em áreas técnicas. Propõe à administração um plano de gestão do conhecimento que inclui mapeamento de competências, criação de manuais de procedimentos, gravação de sessões formativas e parcerias com universidades para atualização técnica contínua. Promove a difusão deste conhecimento junto de outros municípios através da participação em redes de partilha intermunicipal.
 
     **Porquê:** O colaborador avalia as necessidades de desenvolvimento ao nível organizacional, cria mecanismos de preservação e difusão do conhecimento e promove a aprendizagem contínua tanto interna como externamente.
+
+!!! success "Competência Demonstrada"
+    **Situação:** Um assistente técnico da secção de atendimento ao público, ao constatar que os novos colegas demoram semanas a dominar os procedimentos do serviço, começa a compilar num documento as perguntas mais frequentes dos munícipes e as respetivas respostas, organizando-o por temas. Partilha o documento com a equipa e mantém-no atualizado.
+
+    **Porquê:** O trabalhador identifica uma lacuna de conhecimento, investe na sua superação e partilha a informação de forma organizada, facilitando o acesso ao conhecimento dentro da equipa.
+
+!!! tip "Competência Demonstrada a Nível Elevado"
+    **Situação:** Um assistente técnico da secção de expediente e arquivo, sem qualquer função de chefia ou coordenação, constata que muito do conhecimento sobre procedimentos internos existe apenas na memória dos colegas mais experientes. Por iniciativa própria, cria e mantém uma base de conhecimento digital (wiki) do departamento, onde documenta passo a passo os processos administrativos, inclui modelos de documentos, fluxogramas de decisão e contactos úteis. Organiza sessões informais de partilha de conhecimento entre colegas de diferentes secções e elabora guias de acolhimento para novos trabalhadores, reduzindo drasticamente o tempo de integração. A base de conhecimento torna-se referência para todo o departamento.
+
+    **Porquê:** O trabalhador, sem ocupar qualquer cargo de chefia, cria e implementa procedimentos de captura, organização e acessibilidade do conhecimento, promove a partilha entre equipas e orienta colegas na aquisição de conhecimento -- evidenciando comportamentos de nível elevado através da sua iniciativa e do impacto organizacional do seu trabalho.
 
 ## Reflexão
 

@@ -20,6 +20,9 @@ Tomar decisões com rapidez, mesmo quando envolvem riscos, tomar decisões difí
 
 ## Exemplos Práticos: Demonstrada vs Nível Elevado
 
+!!! warning "Nota importante"
+    Demonstrar uma competência a nível elevado **não depende do cargo hierárquico**. Qualquer trabalhador -- assistente técnico, assistente operacional ou técnico superior -- pode evidenciar comportamentos de nível elevado através da sua iniciativa, proatividade e impacto no serviço. Os exemplos seguintes ilustram isso mesmo.
+
 !!! success "Competência Demonstrada"
     **Situação:** Um técnico da divisão de fiscalização identifica uma situação urgente durante uma vistoria: uma estrutura temporária montada para uma feira local apresenta sinais de instabilidade. Reconhece o risco, interrompe a utilização do espaço em causa e contacta imediatamente a sua chefia, apresentando os factos observados e seguindo as diretrizes estabelecidas para situações de emergência.
 
@@ -39,6 +42,16 @@ Tomar decisões com rapidez, mesmo quando envolvem riscos, tomar decisões difí
     **Situação:** A diretora de departamento, confrontada com cortes orçamentais significativos, decide restruturar os serviços da sua área, redistribuindo recursos humanos e eliminando atividades redundantes. A decisão implica mudanças impopulares entre alguns trabalhadores, mas é fundamentada com dados concretos sobre eficiência e impacto nos serviços ao cidadão. Acompanha pessoalmente a implementação e assume a responsabilidade pelos resultados perante toda a organização.
 
     **Porquê:** A colaboradora avalia a situação de forma sistémica, toma decisões difíceis com impacto organizacional, considera os efeitos a longo prazo e assume responsabilidade pelos resultados globais.
+
+!!! success "Competência Demonstrada"
+    **Situação:** Um técnico superior de fiscalização, durante uma vistoria de rotina, deteta que um estabelecimento comercial não cumpre as normas de acessibilidade obrigatórias. Apesar de o proprietário argumentar que vai resolver a situação em breve, o técnico decide aplicar a notificação prevista no regulamento, reúne a documentação fotográfica e fundamenta a sua decisão por escrito. Informa a chefia da decisão tomada.
+
+    **Porquê:** O trabalhador avalia a situação, toma uma decisão alinhada com os procedimentos, fundamenta-a com informação relevante e assume a responsabilidade, informando a chefia.
+
+!!! tip "Competência Demonstrada a Nível Elevado"
+    **Situação:** Um técnico superior da divisão de fiscalização, durante uma inspeção a uma obra particular, constata que os trabalhos em curso violam gravemente as condições do alvará de construção, colocando em risco a segurança pública. Apesar da forte pressão do proprietário -- que invoca conhecimentos políticos e ameaça apresentar queixa --, o técnico decide ordenar a suspensão imediata dos trabalhos no local, assumindo inteiramente a responsabilidade pela decisão. Elabora um relatório detalhado e tecnicamente fundamentado que justifica a sua atuação. Posteriormente, com base nesta experiência, propõe à chefia melhorias ao protocolo de inspeção, incluindo critérios mais claros para situações de suspensão imediata e um modelo de relatório padronizado.
+
+    **Porquê:** O trabalhador, sem ser dirigente, toma uma decisão difícil e potencialmente impopular sob pressão direta, fundamenta-a de forma rigorosa, assume total responsabilidade e vai além da situação concreta ao propor melhorias aos procedimentos -- evidenciando comportamentos de nível elevado pela sua coragem, autonomia e visão de melhoria contínua.
 
 ## Reflexão
 

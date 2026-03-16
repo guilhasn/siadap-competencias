@@ -44,6 +44,9 @@ Focar a ação em objetivos que acrescentam valor para a sociedade e para o cida
 
 ## Exemplos Práticos: Demonstrada vs Nível Elevado
 
+!!! warning "Nota importante"
+    Demonstrar uma competência a nível elevado **não depende do cargo hierárquico**. Qualquer trabalhador -- assistente técnico, assistente operacional ou técnico superior -- pode evidenciar comportamentos de nível elevado através da sua iniciativa, proatividade e impacto no serviço. Os exemplos seguintes ilustram isso mesmo.
+
 ### Cenário 1 — Processamento de requerimentos de licenciamento
 
 !!! success "Demonstrada (Níveis 1–2)"
@@ -73,3 +76,13 @@ Focar a ação em objetivos que acrescentam valor para a sociedade e para o cida
 !!! tip "Nível Elevado (Níveis 3–5)"
 
     O Dr. Vasco, dirigente da área financeira, verificou que vários serviços requisitavam materiais de escritório de forma independente, gerando encomendas fragmentadas com custos unitários superiores e desperdício de stock. Analisou os padrões de consumo de todas as divisões e criou um procedimento centralizado de aquisições com calendário trimestral, negociando condições mais vantajosas com os fornecedores e reduzindo o desperdício. Implementou um painel de execução orçamental em tempo real com indicadores de eficiência — custo por unidade orgânica, taxa de execução por rubrica, desvio face ao planeado — acessível a todos os dirigentes. Definiu metas de otimização anuais para cada divisão e instituiu reuniões trimestrais de revisão onde os resultados são analisados em conjunto, com ações corretivas documentadas e prazos de implementação definidos.
+
+### Cenário 4 — Otimização de recursos e qualidade na área financeira (sem cargo de chefia)
+
+!!! success "Demonstrada (Níveis 1–2)"
+
+    O André, assistente técnico na Divisão Financeira, é responsável pelo registo de faturas e acompanhamento de cabimentos. Cumpre os prazos estabelecidos para o processamento de todas as despesas que lhe são atribuídas, utiliza o sistema informático de forma eficiente e verifica os seus próprios registos para garantir a ausência de erros. Quando deteta que uma rubrica apresenta execução atípica, sinaliza a situação ao chefe de divisão.
+
+!!! tip "Nível Elevado (Níveis 3–5)"
+
+    A Raquel, técnica superior na Divisão Financeira — sem qualquer cargo de chefia ou coordenação —, ao acompanhar a execução orçamental das rubricas que lhe estavam atribuídas, apercebeu-se de que existiam padrões de despesa repetitivos entre várias divisões que revelavam ineficiências na forma como as aquisições eram realizadas. Por iniciativa própria, analisou os dados de consumo de materiais e serviços de todas as unidades orgânicas e elaborou um relatório com propostas concretas de otimização. Propôs à chefia a criação de um calendário centralizado de aquisições que permitiria agregar encomendas e negociar melhores condições com fornecedores. A proposta foi aceite e a Raquel coordenou a sua implementação-piloto, articulando diretamente com colegas de outras divisões. Paralelamente, concebeu um painel de controlo da qualidade com indicadores-chave — taxa de erro por processo, tempo médio de tramitação e desvio orçamental por rubrica — que disponibilizou a toda a equipa. Definiu metas trimestrais de melhoria e apresentou os resultados em reuniões de serviço, demonstrando que a iniciativa individual de um trabalhador sem funções de gestão pode ter impacto transversal na eficiência de toda a organização.

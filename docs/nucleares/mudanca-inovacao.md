@@ -44,6 +44,9 @@ Encarar a mudança como uma oportunidade de melhoria e evolução e evidenciar a
 
 ## Exemplos Práticos: Demonstrada vs Nível Elevado
 
+!!! warning "Nota importante"
+    Demonstrar uma competência a nível elevado **não depende do cargo hierárquico**. Qualquer trabalhador -- assistente técnico, assistente operacional ou técnico superior -- pode evidenciar comportamentos de nível elevado através da sua iniciativa, proatividade e impacto no serviço. Os exemplos seguintes ilustram isso mesmo.
+
 ### Cenário 1 — Digitalização dos serviços de urbanismo
 
 !!! success "Demonstrada (Níveis 1–2)"
@@ -73,3 +76,13 @@ Encarar a mudança como uma oportunidade de melhoria e evolução e evidenciar a
 !!! tip "Nível Elevado (Níveis 3–5)"
 
     O Dr. André, responsável pela implementação do sistema de qualidade, percebeu que a certificação não deveria ser um fim em si mesmo, mas sim uma alavanca para transformar a cultura organizacional do município. Facilitou o processo de mudança através de comunicações regulares que explicavam os benefícios concretos para cada serviço. Criou um laboratório de inovação — um espaço mensal onde qualquer trabalhador podia apresentar ideias de melhoria, independentemente da sua categoria profissional. Estabeleceu parcerias com municípios já certificados e com o IPQ para benchmarking. Liderou o desenvolvimento de um painel de indicadores de desempenho em tempo real, acessível a todos os serviços, que permitiu identificar oportunidades de melhoria contínua de forma transparente e participada.
+
+### Cenário 4 — Adoção de uma plataforma digital de gestão documental (sem cargo de chefia)
+
+!!! success "Demonstrada (Níveis 1–2)"
+
+    O Vítor, assistente técnico na Divisão Administrativa, foi informado de que o município ia adotar uma nova plataforma de gestão documental eletrónica. Participou na formação com empenho, adaptou-se ao novo sistema sem resistência e começou a utilizá-lo nas suas tarefas diárias de registo de correspondência. Quando percebeu que a funcionalidade de pesquisa avançada poupava tempo na localização de documentos antigos, comentou a descoberta com os colegas do gabinete.
+
+!!! tip "Nível Elevado (Níveis 3–5)"
+
+    A Cláudia, assistente técnica na mesma divisão — sem qualquer função de coordenação ou chefia —, após dominar a nova plataforma, identificou que vários procedimentos internos podiam ser simplificados tirando partido de funcionalidades que não estavam a ser exploradas. Por iniciativa própria, elaborou uma proposta de reorganização do circuito de despacho eletrónico da sua secção, eliminando etapas redundantes e reduzindo o tempo de tramitação em cerca de dois dias úteis. Apresentou a proposta à chefia, que a aprovou como projeto-piloto. Durante a implementação, a Cláudia dinamizou sessões informais de partilha de boas práticas abertas a colegas de outras divisões, ajudando-os a replicar melhorias nos seus próprios processos. Desafiou pressupostos sobre "a forma como sempre se fez" e criou um pequeno guia de dicas práticas que publicou na intranet, tornando-se uma referência transversal na organização para a utilização eficiente da plataforma — tudo sem necessitar de qualquer título de chefia para mobilizar os colegas.

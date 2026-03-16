@@ -20,6 +20,9 @@ Transmitir informação com clareza, utilizando todas as vias de suporte dispon�
 
 ## Exemplos Práticos: Demonstrada vs Nível Elevado
 
+!!! warning "Nota importante"
+    Demonstrar uma competência a nível elevado **não depende do cargo hierárquico**. Qualquer trabalhador -- assistente técnico, assistente operacional ou técnico superior -- pode evidenciar comportamentos de nível elevado através da sua iniciativa, proatividade e impacto no serviço. Os exemplos seguintes ilustram isso mesmo.
+
 !!! success "Competência Demonstrada"
     **Situação:** Um assistente técnico do balcão único redige um ofício a um munícipe informando-o sobre o estado do seu processo de licenciamento. O documento é claro, bem estruturado e utiliza linguagem acessível, evitando jargão técnico desnecessário. O colaborador certifica-se de que incluiu toda a informação relevante, como prazos e documentação necessária.
 
@@ -39,6 +42,16 @@ Transmitir informação com clareza, utilizando todas as vias de suporte dispon�
     **Situação:** O diretor de departamento é convidado a representar o município numa conferência nacional sobre administração local. Apresenta as boas práticas do município de forma envolvente, adapta a mensagem ao público académico e profissional presente e, internamente, implementa um boletim informativo mensal para melhorar a comunicação entre serviços, reduzindo a circulação informal de informação.
 
     **Porquê:** O trabalhador comunica eficazmente com o grande público, representa a organização externamente e concebe processos de melhoria do fluxo de informação interno.
+
+!!! success "Competência Demonstrada"
+    **Situação:** Uma técnica superior da divisão de ambiente elabora uma nota informativa dirigida aos munícipes sobre as novas regras de separação de resíduos. Estrutura o texto de forma clara, evita termos técnicos desnecessários e inclui exemplos práticos para facilitar a compreensão.
+
+    **Porquê:** A trabalhadora transmite informação de forma estruturada, adapta a linguagem ao público-alvo e facilita a compreensão de conteúdos regulamentares.
+
+!!! tip "Competência Demonstrada a Nível Elevado"
+    **Situação:** Uma técnica superior da divisão de planeamento, sem funções de coordenação ou chefia, identifica que a informação relevante circula mal entre os serviços municipais. Por iniciativa própria, cria um boletim informativo interno da divisão, com periodicidade mensal, que resume as principais novidades legislativas, projetos em curso e decisões relevantes. Desenvolve modelos de comunicação (templates de ofício, notas informativas, comunicações ao público) que passam a ser utilizados por vários serviços. Devido ao seu domínio técnico, é convidada a representar o município numa conferência nacional sobre ordenamento do território, onde apresenta as boas práticas do concelho. Sempre que surgem alterações regulamentares complexas, elabora documentos explicativos em linguagem acessível, garantindo que todos os intervenientes -- desde colegas técnicos a cidadãos -- compreendem o seu alcance.
+
+    **Porquê:** A trabalhadora, sem ocupar qualquer cargo de chefia, comunica eficazmente com audiências diversificadas, representa a organização externamente, concebe processos de melhoria do fluxo de informação e adapta a comunicação a diferentes públicos -- evidenciando comportamentos de nível elevado pelo impacto transversal da sua ação comunicativa.
 
 ## Reflexão
 

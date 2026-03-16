@@ -20,6 +20,9 @@ Priorizar a segurança no trabalho em todas as atividades e decisões, seguir re
 
 ## Exemplos Práticos: Demonstrada vs Nível Elevado
 
+!!! warning "Nota importante"
+    Demonstrar uma competência a nível elevado **não depende do cargo hierárquico**. Qualquer trabalhador -- assistente técnico, assistente operacional ou técnico superior -- pode evidenciar comportamentos de nível elevado através da sua iniciativa, proatividade e impacto no serviço. Os exemplos seguintes ilustram isso mesmo.
+
 !!! success "Competência Demonstrada"
     **Situação:** Um assistente operacional da equipa de manutenção de espaços verdes utiliza sempre os equipamentos de proteção individual (luvas, óculos, proteção auricular) ao operar máquinas de corte. Antes de iniciar o trabalho, verifica o estado da máquina e reporta ao encarregado qualquer anomalia detetada, seguindo os procedimentos de segurança estabelecidos.
 
@@ -39,6 +42,16 @@ Priorizar a segurança no trabalho em todas as atividades e decisões, seguir re
     **Situação:** A dirigente da divisão de obras municipais, após um incidente menor em obra, não se limita a resolver a situação pontual. Redesenha a estratégia de segurança no trabalho de toda a divisão, implementando inspeções regulares, um sistema de reporte anónimo de situações de risco e sessões mensais de sensibilização. Garante que a segurança é o primeiro ponto da agenda de todas as reuniões de obra.
 
     **Porquê:** A colaboradora desenha estratégias que promovem a adesão aos regulamentos, implementa mecanismos de mitigação de riscos e garante a priorização dos protocolos de segurança em todas as atividades.
+
+!!! success "Competência Demonstrada"
+    **Situação:** Um assistente operacional da equipa de obras municipais, ao chegar a um local de trabalho, verifica que as condições do terreno se alteraram devido a chuvas recentes e que existe risco de deslizamento junto à vala onde a equipa vai trabalhar. Alerta os colegas, recusa iniciar os trabalhos até que a situação seja avaliada e reporta o risco ao encarregado, sugerindo a colocação de entivação adicional.
+
+    **Porquê:** O trabalhador identifica um risco imprevisto, segue os procedimentos de segurança e assume a responsabilidade de alertar para o perigo, zelando pela segurança de todos.
+
+!!! tip "Competência Demonstrada a Nível Elevado"
+    **Situação:** Um assistente operacional da equipa de espaços verdes e obras, após um incidente em que um colega quase sofreu um acidente com uma máquina de corte, toma a iniciativa de desenvolver uma lista de verificação de segurança para todas as tarefas da equipa. Organiza briefings informais de segurança no início de cada semana, partilhando boas práticas e alertando para riscos sazonais. Propõe à chefia melhorias ao regulamento de segurança da divisão, baseando-se na experiência prática da equipa. Torna-se a pessoa de referência a quem os colegas recorrem para esclarecer dúvidas sobre procedimentos de segurança.
+
+    **Porquê:** O trabalhador, sem qualquer cargo de chefia, contribui ativamente para a revisão de regulamentos, desenvolve melhores práticas de segurança, mobiliza os colegas e promove uma cultura de segurança proativa -- demonstrando comportamentos de nível elevado através da sua iniciativa e liderança informal.
 
 ## Reflexão
 

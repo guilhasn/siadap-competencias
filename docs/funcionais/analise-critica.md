@@ -20,6 +20,9 @@ Recolher, interpretar e compreender informação relacionada com a atividade, es
 
 ## Exemplos Práticos: Demonstrada vs Nível Elevado
 
+!!! warning "Nota importante"
+    Demonstrar uma competência a nível elevado **não depende do cargo hierárquico**. Qualquer trabalhador -- assistente técnico, assistente operacional ou técnico superior -- pode evidenciar comportamentos de nível elevado através da sua iniciativa, proatividade e impacto no serviço. Os exemplos seguintes ilustram isso mesmo.
+
 !!! success "Competência Demonstrada"
     **Situação:** Um técnico administrativo da divisão de urbanismo recebe um pedido de licenciamento que apresenta documentação incompleta. O colaborador identifica os documentos em falta, consulta a legislação aplicável e encaminha o processo para o colega responsável pela área técnica, informando o munícipe sobre os passos seguintes.
 
@@ -39,6 +42,16 @@ Recolher, interpretar e compreender informação relacionada com a atividade, es
     **Situação:** A coordenadora do serviço de ação social deteta um aumento de pedidos de apoio alimentar num determinado bairro. Em vez de apenas processar os pedidos, analisa dados demográficos, cruza informação com o IEFP e a Segurança Social, identifica que o encerramento de uma fábrica local está na origem do problema e propõe ao executivo um plano de intervenção coordenado com várias entidades.
 
     **Porquê:** A trabalhadora vai além da resolução caso a caso, analisa o problema de forma sistémica, antecipa a sua evolução e concebe uma solução integrada com avaliação de impacto.
+
+!!! success "Competência Demonstrada"
+    **Situação:** Um técnico superior da divisão de urbanismo recebe um pedido de informação prévia sobre a viabilidade de uma operação de loteamento. Consulta o PDM, verifica as condicionantes do terreno e elabora uma informação técnica com os dados recolhidos, encaminhando-a para apreciação superior.
+
+    **Porquê:** O trabalhador recolhe e analisa informação relevante de diferentes fontes, retira conclusões lógicas e apresenta uma informação técnica fundamentada dentro do âmbito das suas funções.
+
+!!! tip "Competência Demonstrada a Nível Elevado"
+    **Situação:** Um técnico superior em urbanismo, sem funções de coordenação ou chefia, ao analisar pedidos de licenciamento, cruza sistematicamente dados do cadastro municipal, do PDM, de relatórios ambientais e de enquadramentos legais diversos. Produz análises de viabilidade abrangentes que antecipam problemas antes de estes surgirem -- como conflitos com servidões administrativas, condicionantes ambientais ou incompatibilidades com instrumentos de gestão territorial. Desenvolve por iniciativa própria uma metodologia de análise integrada que é adotada por toda a divisão, melhorando a qualidade e a consistência das informações técnicas produzidas pelo serviço.
+
+    **Porquê:** O trabalhador, sem ocupar qualquer cargo de chefia, integra informação de múltiplas fontes, estabelece relações entre variáveis complexas, antecipa problemas de forma sistémica e cria uma metodologia inovadora com impacto em todo o serviço -- evidenciando comportamentos de nível elevado através da sua competência técnica e proatividade.
 
 ## Reflexão
 

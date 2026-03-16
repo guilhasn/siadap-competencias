@@ -44,6 +44,9 @@ Atuar de acordo com os valores e princípios éticos, revelando compromisso com 
 
 ## Exemplos Práticos: Demonstrada vs Nível Elevado
 
+!!! warning "Nota importante"
+    Demonstrar uma competência a nível elevado **não depende do cargo hierárquico**. Qualquer trabalhador -- assistente técnico, assistente operacional ou técnico superior -- pode evidenciar comportamentos de nível elevado através da sua iniciativa, proatividade e impacto no serviço. Os exemplos seguintes ilustram isso mesmo.
+
 ### Cenário 1 — Atendimento ao cidadão no balcão municipal
 
 !!! success "Demonstrada (Níveis 1–2)"
@@ -73,3 +76,13 @@ Atuar de acordo com os valores e princípios éticos, revelando compromisso com 
 !!! tip "Nível Elevado (Níveis 3–5)"
 
     O Dr. Paulo, responsável pela unidade de ação social, apercebeu-se de que a crescente digitalização dos processos sociais criava novos riscos de exposição de dados pessoais. Antecipando-se a qualquer incidente, elaborou um protocolo de segurança da informação específico para a sua unidade, promoveu formação obrigatória sobre o RGPD aplicado ao contexto social e implementou auditorias trimestrais aos acessos digitais. A sua iniciativa foi adotada como modelo por outras unidades orgânicas da autarquia, contribuindo para reforçar a confiança dos cidadãos nos serviços municipais.
+
+### Cenário 4 — Integridade e ética na contratação pública (sem cargo de chefia)
+
+!!! success "Demonstrada (Níveis 1–2)"
+
+    O Duarte, assistente técnico na equipa de contratação pública, cumpre rigorosamente as regras do Código dos Contratos Públicos em todos os procedimentos que lhe são atribuídos. Aplica os critérios de adjudicação de forma imparcial, recusa qualquer contacto informal com fornecedores sobre matérias em concurso e mantém uma conduta ética irrepreensível no seu trabalho diário. Quando identifica uma pequena irregularidade num documento de habilitação, reporta-a de imediato à chefia.
+
+!!! tip "Nível Elevado (Níveis 3–5)"
+
+    A Madalena, técnica superior na mesma equipa de contratação pública — sem qualquer cargo de chefia ou coordenação —, apercebeu-se de que, embora as regras fossem cumpridas, não existia um instrumento prático que ajudasse os colegas a prevenir situações de risco ético nos procedimentos de menor valor. Por iniciativa própria, desenvolveu uma checklist de integridade aplicável a todos os procedimentos, incluindo uma declaração de ausência de conflitos de interesse. Propôs à chefia a realização de sessões de sensibilização sobre ética na gestão de dinheiros públicos, preparou os materiais e dinamizou as sessões para colegas de várias divisões. Criou ainda um documento de perguntas frequentes sobre dilemas éticos na contratação, que disponibilizou na intranet. A Madalena tornou-se uma referência informal para questões de ética entre os colegas, sem necessitar de qualquer título hierárquico para exercer esse papel.

@@ -20,6 +20,9 @@ Demonstrar compromisso com a promoção da diversidade e inclusão, contribuir p
 
 ## Exemplos Práticos: Demonstrada vs Nível Elevado
 
+!!! warning "Nota importante"
+    Demonstrar uma competência a nível elevado **não depende do cargo hierárquico**. Qualquer trabalhador -- assistente técnico, assistente operacional ou técnico superior -- pode evidenciar comportamentos de nível elevado através da sua iniciativa, proatividade e impacto no serviço. Os exemplos seguintes ilustram isso mesmo.
+
 !!! success "Competência Demonstrada"
     **Situação:** Uma assistente técnica do balcão de atendimento recebe um munícipe com deficiência auditiva. Sem hesitar, adapta a sua comunicação, recorrendo à escrita e a gestos claros para garantir que o cidadão compreende toda a informação sobre o processo que pretende tratar. Certifica-se de que o munícipe sai com todas as dúvidas esclarecidas.
 
@@ -39,6 +42,16 @@ Demonstrar compromisso com a promoção da diversidade e inclusão, contribuir p
     **Situação:** O coordenador de recursos humanos desenvolve um programa de integração para novos trabalhadores que inclui sessões de sensibilização sobre diversidade, mentoria intercultural e a criação de um grupo de trabalho permanente sobre práticas inclusivas. O programa transforma a diversidade da equipa numa mais-valia para a qualidade do serviço prestado.
 
     **Porquê:** O colaborador potencia uma cultura de inclusão que transforma a diversidade em valor acrescentado, criando um ambiente de trabalho genuinamente colaborativo e inclusivo.
+
+!!! success "Competência Demonstrada"
+    **Situação:** Um técnico superior da divisão de urbanismo, ao preparar um edital de consulta pública, percebe que o documento utiliza linguagem excessivamente técnica e jurídica. Por iniciativa própria, elabora uma versão simplificada em linguagem clara e sugere à chefia que ambas as versões sejam disponibilizadas. Verifica também que o documento digital é compatível com leitores de ecrã.
+
+    **Porquê:** O trabalhador adapta a linguagem às necessidades dos interlocutores e adota procedimentos que asseguram a acessibilidade dos serviços públicos, demonstrando sensibilidade para a inclusão no seu trabalho quotidiano.
+
+!!! tip "Competência Demonstrada a Nível Elevado"
+    **Situação:** Uma técnica superior da divisão de educação e cultura, sem qualquer cargo de chefia, lidera informalmente um grupo de trabalho sobre acessibilidade nos serviços municipais. Por sua iniciativa, propõe a criação de formulários multilingues e versões em leitura fácil dos documentos mais utilizados pelos cidadãos. Estabelece contactos com associações como a ACAPO e a APD para alinhar as práticas do município com as recomendações destas entidades. Organiza sessões de formação para colegas de diferentes divisões sobre comunicação acessível e inclusiva.
+
+    **Porquê:** A trabalhadora, sem ocupar um cargo dirigente, concebe práticas de acessibilidade, mobiliza colegas e entidades externas, e introduz a inclusão como valor transversal -- evidenciando comportamentos de nível elevado através da sua iniciativa e impacto no serviço.
 
 ## Reflexão
 

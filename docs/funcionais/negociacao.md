@@ -20,6 +20,9 @@ Criar uma imagem de credibilidade e utilizar argumentos convincentes que apelam 
 
 ## Exemplos Práticos: Demonstrada vs Nível Elevado
 
+!!! warning "Nota importante"
+    Demonstrar uma competência a nível elevado **não depende do cargo hierárquico**. Qualquer trabalhador -- assistente técnico, assistente operacional ou técnico superior -- pode evidenciar comportamentos de nível elevado através da sua iniciativa, proatividade e impacto no serviço. Os exemplos seguintes ilustram isso mesmo.
+
 !!! success "Competência Demonstrada"
     **Situação:** Um técnico superior da divisão de ambiente precisa de convencer um munícipe a remover uma construção ilegal junto a uma linha de água. Apresenta os argumentos de forma clara, mostra a legislação aplicável, explica os riscos ambientais e de segurança envolvidos e escuta as preocupações do cidadão, propondo um prazo razoável para a regularização da situação.
 
@@ -39,6 +42,16 @@ Criar uma imagem de credibilidade e utilizar argumentos convincentes que apelam 
     **Situação:** A diretora de departamento representa o município numa negociação com a administração central sobre a transferência de competências para as autarquias. A situação é delicada, com divergências sobre financiamento e recursos humanos. A colaboradora apresenta dados sólidos sobre os custos reais, demonstra domínio técnico do tema, mantém uma postura firme mas diplomática, identifica pontos de interesse comum e propõe um modelo de transição faseada que acaba por ser aceite por ambas as partes.
 
     **Porquê:** A trabalhadora evidencia credibilidade e influência ao mais alto nível, resolve desacordos em contexto politicamente sensível e cria soluções de ganhos mútuos com perseverança e visão estratégica.
+
+!!! success "Competência Demonstrada"
+    **Situação:** Um técnico superior da divisão de urbanismo precisa de obter um parecer favorável de uma entidade externa (CCDR) para um processo de licenciamento. Apresenta os argumentos técnicos de forma clara, fundamenta o pedido com dados e legislação aplicável e escuta as reservas da entidade, propondo ajustes ao projeto que respondem às preocupações levantadas.
+
+    **Porquê:** O trabalhador utiliza dados concretos para fundamentar a sua posição, adapta os argumentos ao interlocutor e procura uma solução que concilie os interesses das partes envolvidas.
+
+!!! tip "Competência Demonstrada a Nível Elevado"
+    **Situação:** Um técnico superior da divisão de ambiente e urbanismo, sem funções de coordenação ou chefia, é o responsável técnico por vários processos de licenciamento que envolvem pareceres de múltiplas entidades externas -- empresas de serviços públicos (água, eletricidade, gás), agências ambientais e a CCDR. Perante um processo particularmente complexo, em que os pareceres das diferentes entidades são contraditórios e bloqueiam o avanço da decisão, o técnico toma a iniciativa de convocar reuniões técnicas com os vários intervenientes. Apresenta argumentos fundamentados em dados técnicos e enquadramento legal, demonstra domínio profundo da matéria, antecipa as objeções de cada parte e propõe soluções criativas que conciliam as exigências ambientais com a viabilidade técnica e económica do projeto. Através de uma postura firme mas diplomática, constrói consensos entre partes com interesses divergentes, desbloqueando o processo e criando um precedente de articulação que passa a ser referência para casos futuros.
+
+    **Porquê:** O trabalhador, sem ocupar qualquer cargo de chefia, demonstra domínio técnico, credibilidade e capacidade de influência perante múltiplos interlocutores externos, resolve desacordos com diplomacia, antecipa objeções e constrói soluções de ganhos mútuos -- evidenciando comportamentos de nível elevado através da sua competência negocial e do impacto no serviço.
 
 ## Reflexão
 
